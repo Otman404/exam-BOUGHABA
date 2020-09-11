@@ -1,0 +1,42 @@
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.contact-infos {
+    font-size: 1.2em;
+    padding: 50px 0px 0px 100px;
+}
+
+.fa,
+.fab {
+    color: #138496;
+}
+
+#envoyer {
+    background-color: #138496;
+    font-size: 1.2em;
+    border: none;
+}
+
+div.form-group label{
+    font-size: 1.1em;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 1);
+    text-decoration: underline;
+}
+.fa-2x{
+    color:#fff;
+}
+
+#contact a{
+    color:#000;
+} 
+body{
+    background-color: rgb(234, 234, 234);
+  }
+.container{
+    background-color: #fff;
+  }
